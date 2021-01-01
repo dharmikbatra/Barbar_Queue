@@ -1,0 +1,13 @@
+.container {
+    background-color: blue;
+}
+.bottomcontainer{
+    background-color: #11999E;
+    margin-bottom: 0;
+}
+.footerlink{
+    display:inline-block;
+    margin: 2em 1em 2em 1em;
+    color: white;
+    text-decoration: none;
+  }
