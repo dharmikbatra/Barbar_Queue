@@ -10,7 +10,6 @@ const App = () => {
     <div>
       <FirstContainer />
       <SecondContainer />
-      <ThirdContainer />
       <FourthContainer />
     </div>
   );

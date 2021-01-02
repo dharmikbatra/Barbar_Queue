@@ -9,7 +9,7 @@ const FirstContainer = () => {
     return(
         <Container fluid className = {styles.container}>
             <Navbar bg='light'>
-                <Navbar.Brand>Barber Queue</Navbar.Brand>
+                <Navbar.Brand className="brand">Candid-Caller</Navbar.Brand>
                 <Navbar.Collapse className = 'justify-content-end'>
                     <Nav.Link>a</Nav.Link>
                     <Nav.Link>b</Nav.Link>
@@ -18,8 +18,8 @@ const FirstContainer = () => {
                 </Navbar.Collapse>
             </Navbar>
             <h1>Welcome!</h1>
-            <p>ksjbfvksndvlskmdkl</p>
-            
+            <p> ksjbfvksndvlskmdkl </p>
+
             <h4>First Time?</h4>
             <Button variant = 'light'>SignUp</Button>
             <h4>already a user?</h4>
