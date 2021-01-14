@@ -4,7 +4,7 @@ import SecondContainer from './Components/FirstPage/SecondContainer/SecondContai
 import ThirdContainer from './Components/FirstPage/ThirdContainer/ThirdContainer.jsx';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import FourthContainer from './Components/FirstPage/FourthContainer/FourthContainer.jsx';
-
+int x;
 const App = () => {
   return(
     <div>
